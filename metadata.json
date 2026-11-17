@@ -1,0 +1,16 @@
+{
+  "name": "LyricsBar",
+  "description": "lyricsbar is multi-source lyrics lookup: LRCLIB exact/search and lyrics.ovh fallback.",
+  "uuid": "lyricsbar@devic1",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/babywhocodes/lyricsbar",
+  "settings-schema": "org.gnome.shell.extensions.lyricsbar"
+}

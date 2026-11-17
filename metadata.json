@@ -1,6 +1,6 @@
 {
   "name": "LyricsBar",
-  "description": "lyricsbar is multi-source lyrics lookup: LRCLIB exact/search and lyrics.ovh fallback.",
+  "description": "A GNOME Shell extension that puts synchronized lyrics, playback controls and real-time audio-quality metrics straight into your top bar.",
   "uuid": "lyricsbar@devic1",
   "shell-version": [
     "45",
